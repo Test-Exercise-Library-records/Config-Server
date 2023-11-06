@@ -1,6 +1,3 @@
-springdoc:
-  api-docs:
-    path: /library-records-api-docs
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/library
